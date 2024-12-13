@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.51.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.51.0...v2.51.1) (2024-12-13)
+
+
+### Bug Fixes
+
+* nutripatrol URL ([#11115](https://github.com/openfoodfacts/openfoodfacts-server/issues/11115)) ([8c1d123](https://github.com/openfoodfacts/openfoodfacts-server/commit/8c1d123665734731a4353bfbebb33fbe4c77bed4))
+
 ## [2.51.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.50.0...v2.51.0) (2024-12-10)
 
 
